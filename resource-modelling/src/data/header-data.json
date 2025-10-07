@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "base_year": 2022,
+    "number_of_years": 4,
+    "site": 1,
+    "display_years": 4,
+    "can_delete": false,
+    "is_latest": true
+  }
+] 

@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "function": "Quality Control",
+      "2023_target": 35.84,
+      "2023_actuals": 48.7,
+      "2024_target": 23.84,
+      "2024_actuals": 0.0,
+      "2025_target": 27.24,
+      "2025_actuals": 0.0,
+      "2026_target": 29.6,
+      "2026_actuals": 0.0
+    },
+    {
+      "id": 2,
+      "function": "Supply",
+      "2023_target": 51.88,
+      "2023_actuals": 59.75,
+      "2024_target": 34.02,
+      "2024_actuals": 0.0,
+      "2025_target": 35.6,
+      "2025_actuals": 0.0,
+      "2026_target": 37.44,
+      "2026_actuals": 0.0
+    },
+    {
+      "id": 3,
+      "function": "Quality Analysis",
+      "2023_target": 49.46,
+      "2023_actuals": 48.0,
+      "2024_target": 44.44,
+      "2024_actuals": 0.0,
+      "2025_target": 48.72,
+      "2025_actuals": 0.0,
+      "2026_target": 53.2,
+      "2026_actuals": 0.0
+    },
+    {
+      "id": 4,
+      "function": "Engineering",
+      "2023_target": 5.44,
+      "2023_actuals": 41.0,
+      "2024_target": 5.48,
+      "2024_actuals": 0.0,
+      "2025_target": 6.44,
+      "2025_actuals": 0.0,
+      "2026_target": 6.68,
+      "2026_actuals": 0.0
+    },
+    {
+      "id": 5,
+      "function": "Production",
+      "2023_target": 0,
+      "2023_actuals": 0,
+      "2024_target": 0,
+      "2024_actuals": 0,
+      "2025_target": 0,
+      "2025_actuals": 0,
+      "2026_target": 0,
+      "2026_actuals": 0
+    }
+  ],
+  "filters": {
+    "base_year_val": 2022,
+    "start_quarter": 1,
+    "end_quarter": 3,
+    "previous_quarter": 1,
+    "current_quarter": 2,
+    "next_quarter": 3,
+    "previous_year": 2023,
+    "current_year": 2024,
+    "next_year": 2025,
+    "start_year": 2023,
+    "end_year": 2026,
+    "prediction_start_year": 2023,
+    "prediction_end_year": 2026
+  }
+}
